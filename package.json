@@ -1,7 +1,7 @@
 {
   "name": "react-to-do-list",
   "version": "0.1.0",
-  "homepage": "https://AditChheda.github.io/react-to-do-list",
+  "homepage": "https://aditchheda.github.io/react-to-do-list",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
